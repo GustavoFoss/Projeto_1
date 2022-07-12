@@ -1,5 +1,14 @@
+Projeto 1 Trainee Machine learning da Wise
+
+Projeto sobre a empresa fantasia Fake-Dental com o objetivo
+de analisar sua base de dados e criar um modelo capaz de prever os supostos clientes
+que irão sair
+
+Projeto desenvolvido por: Gustavo Foss Silva
+
 UTILIZE 
 !pip install pandas-profiling==3.1.0
+ python 3.9(base)
 
 Imports
 
